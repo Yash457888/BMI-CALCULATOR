@@ -1,7 +1,5 @@
 
-## Projects
-
-### 1. BMI Calculator
+### BMI Calculator
 
 #### Description
 A simple BMI (Body Mass Index) Calculator built using Python and Tkinter. This application allows users to input their height and weight and calculates their BMI, displaying the result along with the corresponding category.
